@@ -129,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "angular-trading-platform"
+  "defaultProject": "angular-trading-platform",
+  "cli": {
+    "analytics": false
+  }
 }
